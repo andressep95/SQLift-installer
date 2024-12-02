@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Configuración
-VERSION="1.0.0"
-GITHUB_USER="tuusuario"
-REPO_NAME="sqlift"
+VERSION="0.0.4"
+GITHUB_USER="andressep95"
+REPO_NAME="SQLift"
 BASE_URL="https://github.com/${GITHUB_USER}/${REPO_NAME}/releases/download/v${VERSION}"
 
 # Colores para output
