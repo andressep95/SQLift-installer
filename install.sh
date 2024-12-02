@@ -63,7 +63,7 @@ install_sqlift() {
     if [ $? -ne 0 ]; then
         echo -e "${RED}Error al descargar SQLift${NC}"
         exit 1
-    }
+    fi
 
     # Hacer ejecutable
     chmod +x "${install_dir}/sqlift"
